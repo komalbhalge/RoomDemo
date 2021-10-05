@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miOrders"
+        android:icon="@drawable/ic_order_list"
+        app:showAsAction="ifRoom|withText"
+        android:title="Orders">
+    </item>
+    <item
+        android:id="@+id/miLogout"
+        app:showAsAction="ifRoom|withText"
+        android:title="Logout">
+    </item>
+</menu>

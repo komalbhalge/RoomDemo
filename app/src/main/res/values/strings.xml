@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+
+    <!-- Screen Titles -->
+    <string name="login_title">Login</string>
+    <string name="order_list_title">Orders</string>
+    <string name="product_list_title">Products</string>
+    <string name="order_detail_title">OrderDetail</string>
+
+    <!-- UI -->
+    <string name="create_order">Create Order</string>
+    <string name="total_title">Order Total</string>
+    <string name="update_order">Update Order</string>
+    <string name="checkout_order">Checkout Order</string>
+    <string name="save_update">save</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="okay">Okay</string>
+    <string name="logo_description">App Logo</string>
+    <string name="empty_products_message">Oops! There are no products</string>
+    <string name="empty_order_message">You haven not placed any order yet!</string>
+
+    <!-- Alerts -->
+    <string name="network_error">Network Error</string>
+    <string name="network_error_message">You are offline, please check your internet connection</string>
+    <string name="error_title">Error</string>
+    <string name="login_error">User not found!</string>
+    <string name="empty_login_message">Please enter valid credentials</string>
+    <string name="order_created_alert">New order created!</string>
+    <string name="error_fetching_data">Error fetching data</string>
+</resources>

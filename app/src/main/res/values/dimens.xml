@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="standard_button_top_bottom">10dp</dimen>
+    <dimen name="standard_button_left_right">90dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="corner_radius">20dp</dimen>
+    <dimen name="spacing_large">30dp</dimen>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="counter_button_height">40dp</dimen>
+    <dimen name="button_corner_radius">30dp</dimen>
+
+    <dimen name="product_image">90dp</dimen>
+
+    <dimen name="toolbar_button_height">25dp</dimen>
+    <dimen name="button_elevation">20dp</dimen>
+
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="padding_medium">10dp</dimen>
+    <dimen name="title_margin">8dp</dimen>
+
+    <!-- Text sizing values -->
+    <dimen name="text_size_h1">24sp</dimen>
+    <dimen name="text_size_h2">16sp</dimen>
+    <dimen name="text_size_email">20sp</dimen>
+    <dimen name="text_size_h3">14sp</dimen>
+    <dimen name="text_size_h4">32sp</dimen>
+    <dimen name="text_size_body">14sp</dimen>
+
+</resources>
